@@ -18,3 +18,4 @@ numpy>=1.26.0
 # ── Linear Flash Attention ────────────────────────────────────
 # attention linéaire O(N) — requis pour les blocs GDN/linéaire
 flash-linear-attention
+lm_eval
